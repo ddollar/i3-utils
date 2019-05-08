@@ -1,4 +1,7 @@
 #!/bin/sh
+
+# found at https://faq.i3wm.org/question/239/how-do-i-suspendlockscreen-and-logout.1.html
+
 lock() {
   i3lock
 }
